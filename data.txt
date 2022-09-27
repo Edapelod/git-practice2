@@ -1,0 +1,3 @@
+Name: Edapelod
+Age: 26
+Favourite color: blue 
